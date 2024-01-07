@@ -3,16 +3,16 @@ index.js
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("romantic")
+favouriteMovieGenre("space")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("banana")
+favouriteFruit("avocado")
 
 // light, dark
 favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("round")
+favouriteEdgeStyle("soft")
 
 
 
